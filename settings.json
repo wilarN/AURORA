@@ -1,0 +1,19 @@
+{
+    "_comment": "Settings JSON file, Don't Mess with the values if you don't know what you're doing thanks :D",
+    "lang": "en_EN",
+    "currently_selected_realm": "dwadwa",
+    "realm_difficulty": "5",
+    "game_volume": "1",
+    "Has_Begun": true,
+    "player_name": "djuioaw",
+    "current_room_index": "2",
+    "player_health": 100,
+    "player_mana": 100,
+    "player_level": 1,
+    "player_experience": 53,
+    "player_status": "None",
+    "player_alive": true,
+    "backpack": "Magic_Orb:Magic_orb_that_can_glow_in_multiple_different_colours_such_as_yellow,_red_and_blue.._Is_also_controlled_by_voice_commands.;Diamond_Sword:A_certified_classic.;Magic_Orb:Magic_orb_that_can_glow_in_multiple_different_colours_such_as_yellow,_red_and_blue.._Is_also_controlled_by_voice_commands.;Diamond_Sword:A_certified_classic.;Magic_Orb:Magic_orb_that_can_glow_in_multiple_different_colours_such_as_yellow,_red_and_blue.._Is_also_controlled_by_voice_commands.",
+    "weapon_type": "Default",
+    "played_before": false
+}
